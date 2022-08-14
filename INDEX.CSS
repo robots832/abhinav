@@ -1,9 +1,18 @@
 body {
-  background-color: lightblue;
+  background-color:#;
+  background-image: url("img/logo2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 h1{
   color: navy;
   margin-top: 20px;
-  background-image:url("\img\logo1.png");
-  background-color: #cccccc;
+  background-image:#;
+  background-color: #;
+}
+div{
+  background-image: url("img/security.jpg");
+  background-size: 100px 100px;
+  background-position:   100px ;
+
 }
