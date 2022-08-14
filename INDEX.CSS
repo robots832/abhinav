@@ -1,0 +1,19 @@
+body {
+  background-color:#;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  color: navy;
+  margin-top: 20px;
+  background-image:#;
+  background-color: #;
+}
+#myDIV{
+  text-align: center;
+  background-image: url("img/security.jpg");
+  background-size: auto;
+  background-position:   100px ;
+  background-repeat: repeat-x;
+}
