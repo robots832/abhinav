@@ -5,7 +5,7 @@ body {
   background-size: cover;
 }
 .header {
-  background-image: url("img/Untitled.png");
+  background-image: url("https://github.com/robots832/abhinaventerprises/img/Untitled.png");
   background-repeat: no-repeat;
   padding: 100px;
   text-align: center;
@@ -26,19 +26,19 @@ h1 {
   background-size: 100px
 }
 #LABOURS{
-  background-image: url("img/helper.jpg");
+  background-image: url("https://github.com/robots832/abhinaventerprises/img/helper.jpg");
   background-size: 100%;
     background-repeat: no-repeat;
   padding: 250px;
 }
 #CLEANING{
-  background-image: url("img/housekeeper.jpg");
+  background-image: url("https://github.com/robots832/abhinaventerprises/img/housekeeper.jpg");
   background-size: 100%;
     background-repeat: no-repeat;
   padding: 250px;
 }
 #security{
-  background-image: url("img/security.jpg");
+  background-image: url("https://github.com/robots832/abhinaventerprises/img/security.jpg");
   background-size: cover;
     background-repeat: no-repeat;
   padding: 250px;
