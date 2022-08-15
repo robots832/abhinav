@@ -21,22 +21,25 @@ h1 {
 #myDIV {
   text-align: left;
   background-image: url("#");
-  background-position: 100px;
-  background-repeat: repeat-x;
-  background-size: 100%
+  background-position: 100%;
+  background-repeat: no-repeat;
+  background-size: 100px
 }
 #LABOURS{
   background-image: url("img/helper.jpg");
   background-size: 100%;
-  padding: 100px;
+    background-repeat: no-repeat;
+  padding: 250px;
 }
 #CLEANING{
   background-image: url("img/housekeeper.jpg");
   background-size: 100%;
-  padding: 100px;
+    background-repeat: no-repeat;
+  padding: 250px;
 }
 #security{
   background-image: url("img/security.jpg");
-  background-size: 100%r;
-  padding: 100px;
+  background-size: cover;
+    background-repeat: no-repeat;
+  padding: 250px;
 }
