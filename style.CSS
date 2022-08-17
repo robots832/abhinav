@@ -1,0 +1,58 @@
+img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+body {
+  background-color: lightgreen;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header {
+  background-image: url("img/Untitled.png");
+  background-repeat: no-repeat;
+  padding: 100px;
+  text-align: center;
+  z-index: -1
+}
+
+h1 {
+  color: navy;
+  margin-top: 20px;
+  background-image: #;
+  background-color: #;
+}
+
+#myDIV {
+  text-align: left;
+  background-image: url("#");
+  background-position: 100%;
+  background-repeat: no-repeat;
+  background-size: 100px
+}
+#LABOURS{
+  background-image: url("img/helper.jpg");
+  background-size: 100%;
+    background-repeat: no-repeat;
+  padding: 250px;
+}
+#CLEANING{
+  background-image: url("img/housekeeper.jpg");
+  background-size: 100%;
+    background-repeat: no-repeat;
+  padding: 250px;
+}
+#security{
+  background-image: url("img/security.jpg");
+<<<<<<< HEAD
+  background-size: 100%r;
+  padding: 100px;
+  background-repeat: no-repeat;
+=======
+  background-size: cover;
+    background-repeat: no-repeat;
+  padding: 250px;
+>>>>>>> 217e624f094bd7ca546116d3bb0842aea19756cf
+}
