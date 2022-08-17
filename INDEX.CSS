@@ -1,3 +1,9 @@
+img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
 body {
   background-color: #;
   background-image: url("");
@@ -9,6 +15,7 @@ body {
   background-repeat: no-repeat;
   padding: 100px;
   text-align: center;
+  z-index: -1
 }
 
 h1 {
@@ -39,4 +46,5 @@ h1 {
   background-image: url("img/security.jpg");
   background-size: 100%r;
   padding: 100px;
+  background-repeat: no-repeat;
 }
